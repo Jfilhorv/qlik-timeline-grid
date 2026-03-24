@@ -22,15 +22,6 @@ Current data model (existing chart):
 
 `End Date` is calculated as `Start Date + Duration`.
 
-## Screenshots
-
-Public references from source projects:
-
-- Reboot Timeline screenshots (`gruped.PNG` and `notgruped.PNG`):
-  [https://github.com/SimoneSilini/Reboot-Timeline](https://github.com/SimoneSilini/Reboot-Timeline)
-- Multicolored Timeline screenshots (`gruped.PNG` and `notgruped.PNG`):
-  [https://github.com/plzaart/multicolored_timeline](https://github.com/plzaart/multicolored_timeline)
-
 ## Upload/installation
 
 Use a ZIP generated from `build/sense-d3-gantt` only (do not upload the full project ZIP).
