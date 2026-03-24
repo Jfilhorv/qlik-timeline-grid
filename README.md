@@ -22,6 +22,16 @@ Current data model (existing chart):
 
 `End Date` is calculated as `Start Date + Duration`.
 
+## Screenshots
+
+Current extension rendering:
+
+![Current Gantt View](docs/images/current-gantt-view.png)
+
+UX reference (target direction):
+
+![UX Reference View](docs/images/ux-reference-view.png)
+
 ## Upload/installation
 
 Use a ZIP generated from `build/sense-d3-gantt` only (do not upload the full project ZIP).
