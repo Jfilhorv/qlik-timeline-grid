@@ -22,6 +22,10 @@ Current data model (existing chart):
 
 `End Date` is calculated as `Start Date + Duration`.
 
+## Visual reference
+
+![Reference - not grouped timeline](https://github.com/plzaart/multicolored_timeline/raw/master/notgruped.PNG)
+
 ## Upload/installation
 
 Use a ZIP generated from `build/sense-d3-gantt` only (do not upload the full project ZIP).
