@@ -24,13 +24,12 @@ Current data model (existing chart):
 
 ## Screenshots
 
-Current extension rendering:
+Public references from source projects:
 
-![Current Gantt View](docs/images/current-gantt-view.png)
-
-UX reference (target direction):
-
-![UX Reference View](docs/images/ux-reference-view.png)
+- Reboot Timeline screenshots (`gruped.PNG` and `notgruped.PNG`):
+  [https://github.com/SimoneSilini/Reboot-Timeline](https://github.com/SimoneSilini/Reboot-Timeline)
+- Multicolored Timeline screenshots (`gruped.PNG` and `notgruped.PNG`):
+  [https://github.com/plzaart/multicolored_timeline](https://github.com/plzaart/multicolored_timeline)
 
 ## Upload/installation
 
